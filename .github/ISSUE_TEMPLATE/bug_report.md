@@ -1,38 +1,36 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Create a report to help improve the app
 title: ''
-labels: ''
-assignees: ''
+labels: bug
+assignees: TitusPosiadly
 
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+_A clear and concise description of what the bug is._
 
 **To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+_Steps to reproduce the behavior:_
+1. _Go to '...'_
+2. _Click on '....'_
+3. _Scroll down to '....'_
+4. _See error_
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+_A clear and concise description of what you expected to happen._
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+_If applicable, add screenshots to help explain your problem._
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**Video**
+_If applicable, add a link to a video (e.g. YouTube or Vimeo) to help explain your problem._
 
 **Smartphone (please complete the following information):**
  - Device: [e.g. iPhone6]
  - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+ - Version: [e.g. 1.1.8 (47)]
+ - Jailbroken: [YES or NO]
 
 **Additional context**
-Add any other context about the problem here.
+_Add any other context about the problem here._
