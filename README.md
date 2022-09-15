@@ -43,6 +43,6 @@ Wonderful! I am excited to hear what you got. Jump over to the discussions tab t
 
 Of course. Check out my fancy [FAQ](https://www.notion.so/MKT-Playbook-FAQ-9ffc72de666042ff89fbab7e728ead39). Maybe you can find the answer you are looking for right there. If not, don’t hessite to reach out to me or the community. Here is a list of possible contact points:
 
-- GitHub Discussions
+- [GitHub Discussions](https://github.com/MKT-Playbook/Hub/discussions)
 - Via email at [info@mkt-playbook.com](mailto:info@mkt-playbook.com)
 - Reddit - [u/Radish_Hypebeast](https://www.reddit.com/user/Radish_Hypebeast)
