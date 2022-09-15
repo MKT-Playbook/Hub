@@ -14,7 +14,7 @@ Great! Well, great that you found your way here. Not so great that you are exper
 
 Before jumping in I encourage you to look up the existing bug reports. Maybe your issue has already been reported. If so you can add more information through a comment.
 
-> You can search for issues by switching to the “Issues” tab and entering the best-fitting keyword into the search bar.
+> You can search for issues by switching to the [Issues](https://github.com/MKT-Playbook/Hub/issues) tab and entering the best-fitting keyword into the search bar.
 
 Often, the biggest obstacle in resolving a bug is figuring out how to reproduce it. So if you found the steps that lead to the bug and those steps aren’t yet included in the existing bug report, it would be a huge help if you could add them there in the comments.
 
@@ -23,7 +23,7 @@ Often, the biggest obstacle in resolving a bug is figuring out how to reproduce 
 You haven’t found your issue? No problem! Time to create a new report.
 
 > 1. First, you will need a [GitHub account](https://github.com/signup). It is super fast (and free) to set up.
-> 2. Now that that's out of the way the real fun can begin. Switch back to the “Issues” tab and click on “New Issue”.
+> 2. Now that that's out of the way the real fun can begin. Switch back to the [Issues](https://github.com/MKT-Playbook/Hub/issues) tab and click on “New Issue”.
 > 3. Select “Bug report” by clicking “Get started” on the first item.
 > 4. Choose a clear and concise title, so other users can find your issue.
 > 5. Fill out as much of the requested information as possible as this will greatly speed up the debugging process.
@@ -37,7 +37,7 @@ Also please keep in mind that I am developing the app on my own and only in my f
 
 ## I have a cool new idea for the app!
 
-Wonderful! I am excited to hear what you got. Jump over to the discussions tab to see what others have already suggested and to create a new feature request.
+Wonderful! I am excited to hear what you got. Jump over to the [Discussions](https://github.com/MKT-Playbook/Hub/discussions) tab to see what others have already suggested and to create a new feature request.
 
 ## I have a question
 
