@@ -4,11 +4,11 @@
 
 # Welcome to the MKT Playbook (git)hub!
 
-Hey there! Fancy seeing you here. Welcome to the official MKT Playbook hub. A place where you can report bugs, request new features or ask questions. Check out the sections down below to get started.
+Hey there! Fancy seeing you here. Welcome to the official MKT Playbook hub. A place where you can report bugs, request new features, or ask questions. Check out the sections down below to get started.
 
 ## I found a bug! What now?
 
-Great! Well, great that you found your way here. Not so great that you are experiencing an issue. But don't worry! Rescue is only a couple of clicks away!
+Great! Well, great that you found your way here. Not so great that you are experiencing an issue. But don't worry! Rescue is only a few clicks away!
 
 ### Search for existing bugs
 
@@ -22,7 +22,7 @@ Often, the biggest obstacle in resolving a bug is figuring out how to reproduce 
 
 You haven’t found your issue? No problem! Time to create a new report.
 
-> 1. First you will need a [GitHub account](https://github.com/signup). It is super fast (and free) to set up.
+> 1. First, you will need a [GitHub account](https://github.com/signup). It is super fast (and free) to set up.
 > 2. Now that that's out of the way the real fun can begin. Switch back to the “Issues” tab and click on “New Issue”.
 > 3. Select “Bug report” by clicking “Get started” on the first item.
 > 4. Choose a clear and concise title, so other users can find your issue.
