@@ -24,7 +24,7 @@ _A clear and concise description of what you expected to happen._
 _If applicable, add screenshots to help explain your problem._
 
 **Video**
-_If applicable, add a link to a video (e.g. YouTube or Vimeo) to help explain your problem._
+_If applicable, upload (max 10MB or ~5 sec) or add a link to a video (e.g. YouTube or Vimeo) to help explain your problem._
 
 **Smartphone (please complete the following information):**
  - Device: [e.g. iPhone6]
